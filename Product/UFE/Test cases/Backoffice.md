@@ -32,15 +32,15 @@ Here you can find a quick list of the tags used on this feature
 	11. As a UFE user, on Backoffice page, I want to validate that it is NOT possible to export an invalid item.
 	12. As a UFE user, on Backoffice Home page, I want to validate settings area is well displayed.
 	13. As a UFE user, on Backoffice page, I want to validate that it is possible to enable/disable the Developer Mode.
-	14. 
+	14. As a UFE user, I want to validate Backoffice Platform Index, is well displayed.
 
 ### Platform Page:
 	1. As a UFE user, I want to validate Backoffice Platform page, is well displayed.
-	2. As a UFE user, I want to validate Backoffice Platform Index, is well displayed.
+	2. 
 	3. As a UFE user, on Platform page I want to validate UFE default configurations are applied when there is no custom configurations. #IntegrationTest
-	4. As a UFE user, on Platform page I want to validate it is possible to change how multiple interactions are open
-	5. As a UFE user, on Platform page I want to validate it is possible to change the circular progress ui theming.
-	6. As a UFE user, on Platform page I want to validate it is possible to change the default behavior of dispatching the filter journeys on menu on text update.
+	4. As a UFE user, on Platform page I want to validate it is possible to change how multiple interactions are open - to complex should be done on E2E
+	5. As a UFE user, on Platform page I want to validate it is possible to change the circular progress ui theming. #IntegrationTest include on overlay configurations
+	6. As a UFE user, on Platform page I want to validate it is possible to change the default behavior of dispatching the filter journeys on menu on text update. validate what is the expected result
 	7. As a UFE user, on Platform page I want to validate it is possible to change the default behavior of the menu ordering in UFE.
 	8. As a UFE user, on Platform page I want to validate it is possible to change the session timeout expiration times.
 	9. As a UFE user, on Platform page I want to validate it is possible to update the default save timeout of the journeys.
